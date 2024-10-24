@@ -1,1 +1,1 @@
-print('Sveikas Pasauli!')
+print('Labas Pasauli!')
